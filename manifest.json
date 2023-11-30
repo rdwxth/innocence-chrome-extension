@@ -1,0 +1,30 @@
+{
+    "manifest_version": 3,
+    "name": "Innocence Chrome Extension",
+    "version": "1.0",
+    "description": "Replace browsing history with innocent history",
+    "permissions": ["history", "contextMenus", "storage"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+        "16": "logo.png",
+        "48": "logo.png",
+        "128": "logo.png"
+        }
+    },
+    "icons": {
+        "16": "logo.png",
+        "48": "logo.png",
+        "128": "logo.png"
+    },
+    "content_scripts": [
+        {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+        }
+    ]
+}
+  
