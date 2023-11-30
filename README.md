@@ -1,12 +1,12 @@
-# Spotless Search History Chrome Extension
+# Innocence Chrome Extension
 
 <div style="margin: 0 auto; text-align: center;">
-  <img src="logo.png" alt="Spotless Search History Logo" width="150">
+  <img src="logo.png" alt="Innocence Logo" width="150">
 </div>
 
 **Keep Your Search History Spotless and Fun!**
 
-The Spotless Search History Chrome Extension is a lightweight tool designed to give you control over your browsing history. Easily exempt specific websites from being recorded, and add a touch of randomness by swapping out your history with more exciting sites.
+The Innocence Chrome Extension is a lightweight tool designed to give you control over your browsing history. Easily exempt specific websites from being recorded, and add a touch of randomness by swapping out your history with more exciting sites.
 
 ## Features
 
@@ -16,9 +16,10 @@ The Spotless Search History Chrome Extension is a lightweight tool designed to g
 
 ## How to Use
 
-1. **Install the Extension:** Add Spotless Search History to your Chrome browser.
+1. **Install the Extension:** Add Innocence to your Chrome browser.
 2. **Access Options:** Click on the extension icon to access settings.
-3. **Customize Your History:** Exempt or replace sites for a personalized experience.
+3. **Customize Your History:** Add or remove sites you want to use in a panic replace.
+4. **Exempt sites**: Right click on any website and click "Add to exempt sites"
 
 ## Installation
 
