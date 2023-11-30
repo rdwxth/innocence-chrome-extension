@@ -42,7 +42,7 @@ chrome.runtime.onInstalled.addListener(function () {
   
   chrome.contextMenus.create({
     id: contextMenuId,
-    title: 'Add to Innocent History',
+    title: 'Add to Exempt sites',
     contexts: ['page', 'link']
   });
   
